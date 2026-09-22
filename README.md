@@ -1,1 +1,0 @@
-## Python_Data-structures_Strings-Tuples.
